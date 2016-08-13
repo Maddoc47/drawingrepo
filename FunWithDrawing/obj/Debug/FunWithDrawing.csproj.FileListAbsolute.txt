@@ -1,1 +1,6 @@
 H:\Development\C#\Projects\CanvasDrawing\FunWithDrawing\FunWithDrawing\bin\Debug\FunWithDrawing.exe.config
+H:\Development\C#\Projects\CanvasDrawing\FunWithDrawing\FunWithDrawing\bin\Debug\FunWithDrawing.exe
+H:\Development\C#\Projects\CanvasDrawing\FunWithDrawing\FunWithDrawing\bin\Debug\FunWithDrawing.pdb
+H:\Development\C#\Projects\CanvasDrawing\FunWithDrawing\FunWithDrawing\obj\Debug\FunWithDrawing.csprojResolveAssemblyReference.cache
+H:\Development\C#\Projects\CanvasDrawing\FunWithDrawing\FunWithDrawing\obj\Debug\FunWithDrawing.exe
+H:\Development\C#\Projects\CanvasDrawing\FunWithDrawing\FunWithDrawing\obj\Debug\FunWithDrawing.pdb
